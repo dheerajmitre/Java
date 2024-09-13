@@ -16,8 +16,8 @@ public class distinctEX {
         uniqueelement.add("seva");
         uniqueelement.add("seva");
 
-        uniqueelement.add("Khava");
-        uniqueelement.add("Khava");
+        uniqueelement.add("jjjj");
+        uniqueelement.add("jiii");
 
         uniqueelement.add("java");
         uniqueelement.add("java");
