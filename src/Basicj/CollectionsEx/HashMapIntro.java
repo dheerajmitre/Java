@@ -12,12 +12,12 @@ public class HashMapIntro {
         hashmap.put("java", 100);
         hashmap.put("java", 100);
         hashmap.put("java", 100);
-        hashmap.put("java", 100);
+        hashmap.put("Dhee", 100);
 
         System.out.println(hashmap.size());
+
     }
 }
-
 
 // map doesnot not allow duplicate keys
 //we can enter duplicate values in map

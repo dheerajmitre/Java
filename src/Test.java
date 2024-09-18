@@ -3,7 +3,6 @@ import java.io.*;
 
 public class Test implements Serializable {
 
-
         int i = 10, j = 20;
 
         // Transient variables

@@ -24,8 +24,7 @@ public class ListvssetEx {
 
         list.remove(4);
         System.out.println(list.size() + " Printing List elements " + list);//7
-            Set<Integer> set = new HashSet<>();
 
-            }
+    }
     }
 
